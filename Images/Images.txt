@@ -1,0 +1,1 @@
+Directorio cuyas imágenes se toman para generar la base de datos de imágenes a comparar.

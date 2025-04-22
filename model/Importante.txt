@@ -1,0 +1,3 @@
+Debido a que el tamaño del archivo pose_iter_160000.caffemodel supera los límites establecidos por GitHub, se debe descargar desde este enlace y añadirlo al directorio:
+
+https://uses0-my.sharepoint.com/:u:/r/personal/caribamar_alum_us_es/Documents/pose_iter_160000.caffemodel?csf=1&web=1&e=atfhbA
