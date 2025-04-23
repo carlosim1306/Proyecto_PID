@@ -1,3 +1,5 @@
+Antes de decribir el funcionamiento del proyecto, es importante descargar el modelo entrenado utilizado. Para ello, accede a model y siga las instrucciones del fichero Importante.txt
+
 En este fichero se explicará detalladamente el funcionamiento de la herramienta.
 
 En primer lugar se explicarán los directorios del directorio raíz:
